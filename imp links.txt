@@ -1,0 +1,3 @@
+file://PUN-ATHARVAM01/Team_Leaves =Team leaves
+
+https://peoplesupport.dsone.3ds.com/5.myit/ =people support
